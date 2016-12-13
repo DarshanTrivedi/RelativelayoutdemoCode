@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_a7f916e02d6233ceaee4b3d61eb95092eb023986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_e9dad85539724b6177e38a0f41a29a3b8580d98b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_bdad478cf99ee3bac7b0bd8aa184d7862f13b11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_fad11973aa04045300686d574341f8c7f246a05c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_4c5e769822d18442b4c95324374880b2ce28a6da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_354827479ee1aeb36dcd4ec1b834623f05f5f600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_33233a1c952bcb9a7c2f33c3e62ed52d192f8b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_5d47b4a1f3b4925714392ffaaa502578c74a95aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f05155e9ffbaffda07e215364981e10b23b988d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ffe144d33b5d00155dfa19ed8321343e344666a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_34182dc59d95ac6ae8c685a26199cbd425b323bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_462c81f7f1d17183fb696b150d240c018ffbeaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_42df0bbd94f1a84bddf6f3f1cd53b4e3f4d8e192.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_edd74d931e22ff96c53ce56e7c446e4c25879c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/sotsys-158/RelativeLayoutDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_191685ca708f12b524a8fdf1793904684e49fade.jar" />
+    </item>
+
+</items>
