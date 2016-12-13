@@ -1,0 +1,3 @@
+After linear layouts, Android relativelayout is now among most popular layout to design an attractive user interface in an android app. And I’ve created a demo on [How to Implement Android Relativelayout For Designing Attractive User Interface](https://www.spaceotechnologies.com/android-relativelayout-example/). 
+
+If you face any issue implementing it, you can contact me for help. Also, if you want to implement this feature in your Android App and looking to [Hire Android App Development Company](http://www.spaceotechnologies.com/android-app-development/) to help you, then you can contact Space-O Technologies for the same.
